@@ -28,12 +28,6 @@ A powerful VS Code extension that launches a development server with live reload
 
 ## 🚀 Installation
 
-### Via VS Code Marketplace
-1. Open VS Code
-2. Press `Ctrl+P` or `Cmd+P`
-3. Type `ext install yasiru.live-server`
-4. Press Enter
-
 ### Manual Installation
 1. Download the VSIX file: [live-server-0.0.2.vsix](https://github.com/yasirunadeesha/Live-Server-vscode-extenson/releases/latest)
 2. In VS Code: `Ctrl+Shift+X` → `...` → `Install from VSIX...`
