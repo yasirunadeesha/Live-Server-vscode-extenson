@@ -22,7 +22,7 @@ A powerful VS Code extension that launches a development server with live reload
 
 ## 📋 Requirements
 
-- Visual Studio Code ^1.105.0
+- Visual Studio Code 1.105.0
 - A modern web browser
 - No additional dependencies needed for basic usage
 
@@ -197,4 +197,4 @@ If you find this extension helpful, please:
 
 Made with ❤️ by Yasiru
 
-**Enjoy!**
+**Enjoy!**  
